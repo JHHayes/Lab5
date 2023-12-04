@@ -2,7 +2,8 @@
     flex-direction: row;
 }
 <div class="flex-containter">
-    <div style="order: 4"> 1 </div> 
+    <div style="order: 4"> 1 </div>
+    <div style="flex: 0 0 200px">3</div> 
     <div style="order: 3"> 2 </div> 
     <div style="order: 2"> 3 </div> 
     <div style="order: 1"> 4 </div> 
