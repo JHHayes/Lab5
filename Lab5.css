@@ -1,5 +1,6 @@
 #flex-container {display: flex; 
     flex-direction: column;
+    justify-content: center;
 }
 <div class="flex-containter">
     <div style="order: 3"> 1 </div>
