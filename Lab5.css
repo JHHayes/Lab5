@@ -1,5 +1,5 @@
 #flex-container {display: flex; 
-    flex-direction: row;
+    flex-direction: column;
 }
 <div class="flex-containter">
     <div style="order: 3"> 1 </div>
