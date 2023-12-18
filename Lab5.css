@@ -8,5 +8,5 @@
 }
 body{
     background-image: url("BLTurtle.jpeg");
-    background-size: contain;
+    background-size: cover;
 }
