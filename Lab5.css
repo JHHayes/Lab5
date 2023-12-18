@@ -1,13 +1,12 @@
 #flex-container {display: flex; 
     flex-direction: row;
     justify-content: center;
-    opacity:30% ; 
 }
 #flex-container div{
     width: 30%;
     margin:1vw;
-    background-color: gray;
-    
+    background-color: black;
+    opacity:30% ; 
 }
 body{
     background-image: url("BLTurtle.jpeg");
