@@ -19,11 +19,10 @@ nav li{
 }
 nav ul{
 list-style-type: none;
-text-align: center;
+text-align: left;
 font-size: 2vw;}
 nav a{
 text-decoration: none;
-text-align: left;
 font-size: 1vw;
 
 }
