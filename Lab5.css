@@ -4,7 +4,8 @@
 }
 #flex-container div{
     width: 30%;
-    margin:1vw; 
+    margin:1vw;
+    background-color:antiquewhite; 
 }
 body{
     background-image: url("BLTurtle.jpeg");
