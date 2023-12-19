@@ -16,12 +16,13 @@ color: white;
 }
 nav li{
     display:inline;
-padding:2vw;
+padding:3vw;
 font-size:1vw;
+margin:1vw;
 }
 nav ul{
 list-style-type: none;
-text-align: left;
+text-align: center;
 color:teal;
 }
 nav a{
